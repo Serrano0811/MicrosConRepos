@@ -2,7 +2,7 @@
 {
     public class Product
     {
-        public string id { get; set; } = null!;
+        public string Id { get; set; } = null!;
         public string Name { get; set; } = null!;
         public string Category { get; set; } = null!;
         public string Description { get; set; } = null!;
